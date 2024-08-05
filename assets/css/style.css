@@ -1372,35 +1372,6 @@ a:hover {
   letter-spacing: 0.03em;
 }
 
-.card-footer-a {
-  width: 100%;
-  position: absolute;
-  z-index: 2;
-  background-color: #208bff;
-}
-
-.card-info {
-  list-style: none;
-  margin-bottom: 0;
-  padding: 0.5rem 0;
-}
-
-.card-info .card-info-title {
-  font-size: 1rem;
-  color: #313131;
-}
-
-@media (min-width: 768px) {
-  .card-info .card-info-title {
-    font-size: 0.9rem;
-  }
-}
-
-@media (min-width: 992px) {
-  .card-info .card-info-title {
-    font-size: 1rem;
-  }
-}
 
 .card-info li span {
   color: #ffffff;
